@@ -1,0 +1,53 @@
+body{
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.Header{
+    background-color: rgb(195, 209, 197);
+    width: 35%;
+    height: 51px;
+    margin: 0 auto;
+    border-radius: 50px;
+    opacity: 0.7;
+    cursor: default;
+    box-shadow: 0 0 15px rgb(75, 85, 74);
+}
+.Logo{
+    height: 40px;
+    position: relative;
+    top: 4px;
+    left: 89%;
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: rgb(105, 121, 108);
+}
+.project-button{
+    font-weight: bold;
+    height: 25px;
+    width: 100px;
+    position: relative;
+    top: -74px;
+    left: 40%;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: rgb(105, 121, 108);
+    border-width: 1.5px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-size: 9.5px;
+}
+.project-button:hover{
+    font-weight: bolder;
+    color: white;
+    opacity: 0.6;
+    transition: ease 0.3s;
+    background-color: rgb(105, 121, 108);
+}
+.background1{
+    margin: -590px auto;
+    width: 95%;
+    height: 2400px;
+    background-color: rgb(241, 255, 239);
+    box-shadow: 0 0 15px rgb(165, 176, 163);
+}

@@ -1,0 +1,211 @@
+body{
+    background-image: (image(src));
+}
+
+/*First person */
+.list{
+    margin: 15px auto;
+    background-color: transparent;
+    width: 90%;
+    height: 500px;
+}
+.User{
+    box-shadow: 0 0 15px rgb(75, 85, 74);
+    background-color: rgb(195, 209, 197);
+    width: 99%;
+    height: 40px;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    border-radius: 50px;
+}
+.User-Pfp{
+    height: 33px;
+    position: relative;
+    left: 3px;
+    top: -20px;
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: rgb(105, 121, 108);
+}
+.User-name{
+    background-color: transparent;
+    position: relative;
+    left: 50px;
+    top: 11px;
+    width: 180px;
+    height: 22px;
+}
+.User-Percents{
+    background-color: transparent;
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 1.2px;
+    background-color: white;
+ 
+    border-color: rgb(105, 121, 108);
+    position: relative;
+    top: -52px;
+    left: 88.6%;
+    width: 55px;
+    height: 20px;
+
+}
+.Attendance-Switch {
+    position: relative;
+    left: 94.6%;
+    top: -75px;
+    display: inline-block;
+    width: 50px;
+    height: 23px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: transparent;
+    border-color: rgb(105, 121, 108);
+    border-radius: 50px;
+}
+
+.toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 30px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 19px;
+    width: 19px;
+    top: 2px;
+    left: 4px;
+    bottom: 4px;
+    background-color: rgb(132, 146, 134);
+    transition: .4s;
+    border-radius: 50%;
+}
+
+input:checked + .slider {
+    background-color: #ffffff;
+}
+
+input:checked + .slider:before {
+    transform: translateX(24px);
+}
+
+
+/* End */
+
+.User1{
+    box-shadow: 0 0 15px rgb(75, 85, 74);
+    background-color: rgb(195, 209, 197);
+    width: 99%;
+    height: 40px;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    border-radius: 50px;
+}
+.User-Pfp1{
+    height: 33px;
+    position: relative;
+    left: 3px;
+    top: -20px;
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: rgb(105, 121, 108);
+}
+.User-name1{
+    background-color: transparent;
+    position: relative;
+    left: 50px;
+    top: 11px;
+    width: 220px;
+    height: 22px;
+}
+.User-Percents1{
+    background-color: transparent;
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 1.2px;
+    background-color: white;
+ 
+    border-color: rgb(105, 121, 108);
+    position: relative;
+    top: -52px;
+    left: 88.6%;
+    width: 55px;
+    height: 20px;
+
+}
+.Attendance-Switch1 {
+    position: relative;
+    left: 94.6%;
+    top: -75px;
+    display: inline-block;
+    width: 50px;
+    height: 23px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: transparent;
+    border-color: rgb(105, 121, 108);
+    border-radius: 50px;
+}
+
+.Attendance-Switch1 input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider1 {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 30px;
+}
+
+.slider1:before {
+    position: absolute;
+    content: "";
+    height: 19px;
+    width: 19px;
+    top: 2px;
+    left: 4px;
+    bottom: 4px;
+    background-color: rgb(132, 146, 134);
+    transition: .4s;
+    border-radius: 50%;
+}
+
+input:checked + .slider1 {
+    background-color: #ffffff;
+}
+
+input:checked + .slider1:before {
+    transform: translateX(24px);
+}
+
+
+
+
+
+  

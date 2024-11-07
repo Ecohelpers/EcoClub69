@@ -1,0 +1,286 @@
+@media (max-width:1240px) {
+    .Attendance-Switch {
+        position: relative;
+        left: 92.4%;
+    }
+    .User-Percents{
+        position: relative;
+        top: -52px;
+        left: 84.9%;
+    }
+    .Logo{
+        position: relative;
+        top: 4px;
+        left: 87%;
+    }
+}
+@media (max-width:1070px){
+    .Logo{
+        position: relative;
+        top: 4px;
+        left: 86%;
+    }
+
+}
+@media (max-width:970px){
+    .Logo{
+        position: relative;
+        top: 4px;
+        left: 84.5%;
+    }
+    .project-button{
+        height: 25px;
+        width: 90px;
+        position: relative;
+        left: 46%;
+
+    }
+
+}
+@media (max-width:970px){
+    .User-Percents{
+        position: relative;
+        top: -52px;
+        left: 81.9%;
+    }
+    .Attendance-Switch {
+        position: relative;
+        left: 91.4%;
+    }
+    .Logo{
+        position: relative;
+        top: 4px;
+        left: 81.5%;
+    }
+
+}
+@media (max-width:777px){
+    .User-Percents{
+        position: relative;
+        top: -52px;
+        left: 77.9%;
+    }
+    .Attendance-Switch {
+        position: relative;
+        left: 89.4%;
+    }
+    .Header{
+        width: 60%;
+    }
+    .Logo{
+        position: relative;
+        top: 4px;
+        left: 87.5%;
+    }
+}
+@media (max-width:660px){
+    .Logo{
+        position: relative;
+        top: 4px;
+        left: 82.5%;
+    }
+    .User-Percents{
+        position: relative;
+        top: -52px;
+        left: 70.9%;
+    }
+    .Attendance-Switch {
+        position: relative;
+        left: 85.4%;
+    }
+
+}
+@media (max-width:470px){
+    .project-button{
+        height: 25px;
+        width: 85px;
+        position: relative;
+        left: 46%;
+        font-size: 9.2px;
+    }
+    .User-Percents{
+        position: relative;
+        top: -52px;
+        left: 65%
+    }
+    .Attendance-Switch {
+        position: relative;
+        left: 83.4%;
+    }
+    .Logo{
+        position: relative;
+        top: 4px;
+        left: 82.5%;
+    }
+    .Header{
+        width: 85%;
+    }
+}
+@media (max-width:470px){
+    .project-button{
+        height: 25px;
+        width: 85px;
+        position: relative;
+        left: 46%;
+        font-size: 9.2px;
+    }
+    .User-Percents{
+        position: relative;
+        top: -52px;
+        left: 65%
+    }
+    .Attendance-Switch {
+        position: relative;
+        left: 83.4%;
+    }
+    .Logo{
+        position: relative;
+        top: 4px;
+        left: 82.5%;
+    }
+    .Header{
+        width: 85%;
+    }
+}
+@media (max-width:391px){
+    .project-button{
+        height: 25px;
+        width: 85px;
+        position: relative;
+        left: 46%;
+        font-size: 9.2px;
+    }
+    .User-Percents{
+        position: relative;
+        top: -52px;
+        left: 53%
+    }
+    .Attendance-Switch {
+        position: relative;
+        left: 76.4%;
+    }
+    .Logo{
+        position: relative;
+        top: 4px;
+        left: 82.5%;
+    }
+    .Header{
+        width: 85%;
+    }
+}
+
+/* second one */
+@media (max-width:1240px) {
+    .Attendance-Switch1 {
+        position: relative;
+        left: 92.4%;
+    }
+    .User-Percents1{
+        position: relative;
+        top: -52px;
+        left: 84.9%;
+    }
+}
+
+@media (max-width:970px){
+    .project-button1{
+        height: 25px;
+        width: 90px;
+        position: relative;
+        left: 46%;
+
+    }
+
+}
+@media (max-width:970px){
+    .User-Percents1{
+        position: relative;
+        top: -52px;
+        left: 81.9%;
+    }
+    .Attendance-Switch1 {
+        position: relative;
+        left: 91.4%;
+    }
+
+}
+@media (max-width:777px){
+    .User-Percents1{
+        position: relative;
+        top: -52px;
+        left: 77.9%;
+    }
+    .Attendance-Switch1 {
+        position: relative;
+        left: 89.4%;
+    }
+
+
+}
+@media (max-width:660px){
+    .User-Percents1{
+        position: relative;
+        top: -52px;
+        left: 70.9%;
+    }
+    .Attendance-Switch1 {
+        position: relative;
+        left: 85.4%;
+    }
+
+}
+@media (max-width:470px){
+    .project-button1{
+        height: 25px;
+        width: 85px;
+        position: relative;
+        left: 46%;
+        font-size: 9.2px;
+    }
+    .User-Percents1{
+        position: relative;
+        top: -52px;
+        left: 65%
+    }
+    .Attendance-Switch1 {
+        position: relative;
+        left: 83.4%;
+    }
+
+}
+@media (max-width:470px){
+    .project-button1{
+        height: 25px;
+        width: 85px;
+        position: relative;
+        left: 46%;
+        font-size: 9.2px;
+    }
+    .User-Percents1{
+        position: relative;
+        top: -52px;
+        left: 65%
+    }
+    .Attendance-Switch1 {
+        position: relative;
+        left: 83.4%;
+    }
+}
+@media (max-width:391px){
+    .project-button1{
+        height: 25px;
+        width: 85px;
+        position: relative;
+        left: 46%;
+        font-size: 9.2px;
+    }
+    .User-Percents1{
+        position: relative;
+        top: -52px;
+        left: 53%
+    }
+    .Attendance-Switch1 {
+        position: relative;
+        left: 76.4%;
+    }
+}
